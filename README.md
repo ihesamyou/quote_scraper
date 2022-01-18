@@ -1,0 +1,1 @@
+# farsi_quotes
