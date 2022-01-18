@@ -1,1 +1,2 @@
-# farsi_quotes
+# Farsi Quote Scraper
+Scrapes farsi quotes from www.time.ir
